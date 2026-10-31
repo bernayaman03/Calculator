@@ -22,4 +22,4 @@ A simple Android calculator application developed using **Kotlin** and **XML lay
 
 This project was developed as an academic assignment to practice Android application development, event handling, UI component interaction, and basic arithmetic operations.
 
-The application was previously tested during development. It has not been retested in its current environment.
+The application was tested during development. 
